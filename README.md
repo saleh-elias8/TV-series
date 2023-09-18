@@ -1,4 +1,4 @@
-# TV-Series React-App using maze-api.
+# TV-Series React-App using TV-maze-api.
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
